@@ -5,7 +5,7 @@
 
 Application **Android TV / Google TV** pour écouter **132 radios en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a>.
 
-**Pour installer Radios Flo sur smartphone et tablette, veuillez installer la PWA.**
+**Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer la PWA directement depuis le site web.**
 
 ## Ce que permet l'application
 
