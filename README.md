@@ -1,11 +1,13 @@
 # Radios by Le Site de Flo sur Android TV
 
 [![Dernière version](https://img.shields.io/github/v/release/FloMarl69/radios-flo-tv?label=APK)](https://github.com/FloMarl69/radios-flo-tv/releases)
-[![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3ddc84)](#compatibilité)
+[![Android TV 7.0+](https://img.shields.io/badge/Android%20TV-7.0%2B-3ddc84)](#compatibilité)
+[![Taille](https://img.shields.io/badge/APK-55%20KB-red)](https://github.com/FloMarl69/radios-flo-tv/releases)
+[![Téléchargements](https://img.shields.io/github/downloads/FloMarl69/radios-flo-tv/total)](https://github.com/FloMarl69/radios-flo-tv/releases)
 
-Application **Android TV / Google TV** pour écouter **132 radios en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a>.
+Application **Android TV / Google TV** pour écouter **132 radios francophones en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a>.
 
-**Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer la PWA directement depuis le site web.**
+**Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA directement depuis le site web.**
 
 ## Ce que permet l'application
 
@@ -55,7 +57,7 @@ Sans ordinateur : application « Downloader » sur la TV et lien direct vers l'A
 ## Compatibilité
 
 - Android TV / Google TV, Android 7.0 (API 24) ou plus, avec « Android System WebView » à jour.
-- Testée sur des TV Xiaomi. Installable aussi sur téléphone, mais conçue pour la TV.
+- Testée sur des TV Xiaomi. Conçue pour la TV, mais installable aussi sur téléphone (veuillez tout de même privilégier l'appli PWA).
 
 ## Avertissement et licence
 
