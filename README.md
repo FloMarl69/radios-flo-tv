@@ -9,6 +9,10 @@ Application **Android TV / Google TV** pour écouter **132 radios francophones e
 
 **Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA directement depuis le site web.**
 
+<br>
+<p align="center"><img src="docs/screenshot-rblsdftv.webp" alt="Plume logo" width="512"></p>
+<br>
+
 ## Ce que permet l'application
 
 132 stations réparties en 11 catégories, à parcourir comme un carrousel :
