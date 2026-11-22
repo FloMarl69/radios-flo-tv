@@ -1,6 +1,6 @@
 # Radios by Le Site de Flo sur Android TV
 
-[![Dernière version](https://img.shields.io/github/v/release/FloMarl69/rblsdf-tv?label=APK)](https://github.com/FloMarl69/rblsdf-tv/releases/latest)
+[![Dernière version](https://img.shields.io/github/v/release/FloMarl69/radios-flo-tv?label=APK)](https://github.com/FloMarl69/radios-flo-tv/releases)
 [![Android 7.0+](https://img.shields.io/badge/Android-7.0%2B-3ddc84)](#compatibilité)
 
 Application **Android TV / Google TV** pour écouter **132 radios en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web [Radios by Le Site de Flo](https://lesitedeflo.floinfo38.com).
@@ -29,7 +29,7 @@ Une connexion Internet est nécessaire. Les flux sont ceux des diffuseurs ; l'ap
 
 ## Installer
 
-1. Télécharger `radios-flo.apk` depuis la [page des releases](https://github.com/FloMarl69/rblsdf-tv/releases).
+1. Télécharger `radios-flo.apk` depuis la [page des releases](https://github.com/FloMarl69/radios-flo-tv/releases).
 2. Sur la TV, activer le mode développeur (`Paramètres > Système > À propos`, 7 appuis sur « Build »), puis le débogage USB/ADB.
 3. Depuis un ordinateur sur le même réseau :
 
@@ -58,7 +58,7 @@ Sans ordinateur : application « Downloader » sur la TV et lien direct vers l'A
 ## Avertissement et licence
 
 - **Les noms, logos et flux audio des stations appartiennent à leurs ayants droit.** L'application ne retransmet aucun flux : elle se connecte aux adresses publiques des diffuseurs.
-- Code © 2026 [Flo Info 38](https://www.floinfo38.fr) — tous droits réservés, sauf mention contraire dans un fichier `LICENSE`.
+- Application  © 2026 [Flo Info 38](https://www.floinfo38.fr) — tous droits réservés, sauf mention contraire dans un fichier `LICENSE`.
 - Politique de confidentialité : <https://www.floinfo38.fr/politique-de-confidentialite>
 
 Un bug, une radio à proposer ? Ouvrez une *issue*.
