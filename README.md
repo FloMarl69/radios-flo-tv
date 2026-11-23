@@ -11,7 +11,7 @@ Application **Android TV / Google TV** pour écouter **132 radios francophones e
 
 - Lecteur de radios françaises très léger, peut-être le plus léger de France, codé à la main.
 - Les flux radios sont soigneusement sélectionnés pour une bonne qualité d'écoute.
-- Pas de tracking, pas de pub (hors publicité des radios elle-mêmes).
+- Aucun traceur ni script tiers de ma part, pas de publicité ajoutée (les radios peuvent diffuser la leur).
 
 **Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA disponible directement depuis le site web.**
 
