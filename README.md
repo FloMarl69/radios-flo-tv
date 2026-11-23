@@ -7,10 +7,15 @@
 
 Application **Android TV / Google TV** pour écouter **132 radios francophones en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a>.
 
+## Avantages
+
+- Lecteur de radios françaises très léger, peut-être le plus léger de France, codé à la main.
+- Les flux radios sont soigneusement sélectionnés pour une qualité d'écoute exceptionnelle (128k ou +).
+
 **Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA disponible directement depuis le site web.**
 
 <br>
-<p align="center"><img src="docs/screenshot-rblsdftv.webp" alt="Plume logo" width="512"></p>
+<p align="center"><img src="docs/screenshot-rblsdftv.webp" alt="Capture d'écran de Radios Flo TV" width="512"></p>
 <br>
 
 ## Ce que permet l'application
