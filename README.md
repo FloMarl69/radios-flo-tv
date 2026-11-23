@@ -2,7 +2,7 @@
 
 [![Dernière version](https://img.shields.io/github/v/release/FloMarl69/radios-flo-tv?label=APK)](https://github.com/FloMarl69/radios-flo-tv/releases)
 [![Android TV 7.0+](https://img.shields.io/badge/Android%20TV-7.0%2B-3ddc84)](#compatibilité)
-[![Taille](https://img.shields.io/badge/APK-55%20KB-red)](https://github.com/FloMarl69/radios-flo-tv/releases)
+[![Taille](https://img.shields.io/badge/APK-55%20KB-ff0000)](https://github.com/FloMarl69/radios-flo-tv/releases)
 [![Téléchargements](https://img.shields.io/github/downloads/FloMarl69/radios-flo-tv/total)](https://github.com/FloMarl69/radios-flo-tv/releases)
 
 Application **Android TV / Google TV** pour écouter **132 radios francophones en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a>.
@@ -10,7 +10,7 @@ Application **Android TV / Google TV** pour écouter **132 radios francophones e
 ## Avantages
 
 - Lecteur de radios françaises très léger, peut-être le plus léger de France, codé à la main.
-- Les flux radios sont soigneusement sélectionnés pour une qualité d'écoute exceptionnelle (128k ou +).
+- Les flux radios sont soigneusement sélectionnés pour une bonne qualité d'écoute.
 
 **Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA disponible directement depuis le site web.**
 
@@ -71,7 +71,7 @@ Sans ordinateur : application « Downloader » sur la TV et lien direct vers l'A
 ## Avertissement et licence
 
 - **Les noms, logos et flux audio des stations appartiennent à leurs ayants droit.** L'application ne retransmet aucun flux : elle se connecte aux adresses publiques des diffuseurs.
-- Application  © 2026 [Flo Info 38](https://www.floinfo38.fr) — tous droits réservés, sauf mention contraire dans un fichier `LICENSE`.
+- Application © 2026 [Flo Info 38](https://www.floinfo38.fr).
 - Politique de confidentialité : <https://www.floinfo38.fr/politique-de-confidentialite>
 
 Un bug, une radio à proposer ? Ouvrez une *issue*.
