@@ -7,7 +7,7 @@
 
 Application **Android TV / Google TV** pour écouter **132 radios francophones en direct**, gratuitement et sans inscription, entièrement à la télécommande. Elle donne accès au site web <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a>.
 
-**Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA directement depuis le site web.**
+**Pour installer Radios Flo sur ordinateur, smartphone ou tablette, veuillez installer l'appli PWA disponible directement depuis le site web.**
 
 <br>
 <p align="center"><img src="docs/screenshot-rblsdftv.webp" alt="Plume logo" width="512"></p>
@@ -60,8 +60,8 @@ Sans ordinateur : application « Downloader » sur la TV et lien direct vers l'A
 
 ## Compatibilité
 
-- Android TV / Google TV, Android 7.0 (API 24) ou plus, avec « Android System WebView » à jour.
-- Testée sur des TV Xiaomi. Conçue pour la TV, mais installable aussi sur téléphone (veuillez tout de même privilégier l'appli PWA).
+- Android TV / Google TV / Box Android TV, Android 7.0 (API 24) ou plus, avec « Android System WebView » à jour.
+- Testée sur des TV Xiaomi + Freebox Pop. Conçue pour la TV, mais installable aussi sur téléphone (veuillez tout de même privilégier l'appli PWA disponible directement depuis le site web).
 
 ## Avertissement et licence
 
