@@ -21,14 +21,14 @@ Application **Android TV / Google TV** pour écouter **132 radios francophones e
 
 ## Ce que permet l'application
 
-132 stations réparties en 11 catégories, à parcourir comme un carrousel :
+132 stations réparties en 11 catégories inspirées du DAB+, à parcourir comme un carrousel :
 
 | Catégorie | Stations |
 |---|---|
 | Métropolitain M1 et M2 | 26 radios nationales : NRJ, RTL, France Inter, Europe 1, Nostalgie, Skyrock, FIP, RMC… |
 | Étendu ou Local (1 et 2) | 19 radios étendues ou locales : Alpes 1, Sud Radio, TSF Jazz, Virgin Radio… |
 | Ici (1, 2 et 3) | 45 radios régionales du réseau « Ici » |
-| Locales et Autres Pays | 5 radios locales et d'autres pays |
+| Locales FM et Autres Pays | 5 radios locales et d'autres pays |
 | Webradios | 14 webradios : rock, rap, reggae, classiques… |
 | 100 % Artistes (1 et 2) | 23 radios dédiées à un artiste ou un groupe |
 
