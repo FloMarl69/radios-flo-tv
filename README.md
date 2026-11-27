@@ -38,6 +38,7 @@
 - Touches média de la télécommande (lecture, pause, stop).
 - L'écran reste allumé pendant l'écoute.
 - Le volume se règle avec la télécommande de la TV.
+- La gestion des sessions multimédias et de la fonctionnalité de chargement d'illustrations dans la carte « Lecture en cours » de l'écran d'accueil ou dans le panneau multimédia.
 
 Une connexion Internet est nécessaire. Les flux sont ceux des diffuseurs ; l'application ne les héberge pas.
 
