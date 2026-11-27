@@ -2,7 +2,7 @@
 
 [![Dernière version](https://img.shields.io/github/v/release/FloMarl69/radios-flo-tv?label=APK)](https://github.com/FloMarl69/radios-flo-tv/releases)
 [![Android TV 7.0+](https://img.shields.io/badge/Android%20TV-7.0%2B-3ddc84)](#compatibilité)
-[![Taille](https://img.shields.io/badge/APK-55%20KB-ff0000)](https://github.com/FloMarl69/radios-flo-tv/releases)
+[![Taille](https://img.shields.io/badge/APK-58%20KB-ff0000)](https://github.com/FloMarl69/radios-flo-tv/releases)
 [![Téléchargements](https://img.shields.io/github/downloads/FloMarl69/radios-flo-tv/total)](https://github.com/FloMarl69/radios-flo-tv/releases)
 
 **Application Android TV / Google TV (Android 7+) permettant d’écouter 132 radios francophones en direct, gratuitement et sans inscription, avec une navigation pensée pour la télécommande.** Elle donne un accès direct à la plateforme <a href="https://lesitedeflo.floinfo38.com" target="_blank" rel="noopener noreferrer">Radios by Le Site de Flo</a> depuis votre Smart TV, clé HDMI, Chromecast ou box TV Android.
